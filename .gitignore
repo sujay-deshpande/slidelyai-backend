@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Local development files
+.DS_Store
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# IDE files (specific to your IDE/editor)
+.vscode/
+.idea/
+
+# Ignore any sensitive files not mentioned above
+*.secret
